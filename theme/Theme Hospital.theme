@@ -1,0 +1,108 @@
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Cross.bmp,0
+
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%bottle.bmp,0
+
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+empty=%ThemeDir%Discworld\Discworld Trash Empty.ico,0
+full=%ThemeDir%Discworld\Discworld Trash Full.ico,0
+
+[Control Panel\Cursors]
+AppStarting=
+Arrow=%ThemeDir%Normal.cur
+Crosshair=
+Help=
+IBeam=
+No=
+NWPen=
+SizeAll=
+SizeNESW=
+SizeNS=
+SizeNWSE=
+SizeWE=
+UpArrow=
+Wait=
+
+[Control Panel\Desktop]
+Wallpaper=C:\Dave\Theme\background.jpg
+Pattern=239 239 14 254 254 254 224 239
+TileWallpaper=0
+WallpaperStyle=2
+
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=%ThemeDir%Startwin.wav
+
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=%ThemeDir%Discworld\Ook.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SchdplusReminder\.Current]
+DefaultValue=%Windir%msremind.wav
+
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=%ThemeDir%Discworld\Ook.wav
+
+[AppEvents\Schemes\Apps\.Default\Welcome\.Current]
+DefaultValue=%ThemeDir%WELCOME.WAV
+
+[AppEvents\Schemes\Apps\.Default\Goodbye\.Current]
+DefaultValue=%ThemeDir%GOODBYE.WAV
+
+[AppEvents\Schemes\Apps\.Default\IM\.Current]
+DefaultValue=%ThemeDir%IM.WAV
+
+[AppEvents\Schemes\Apps\.Default\Drop\.Current]
+DefaultValue=%ThemeDir%DROP.WAV
+
+[AppEvents\Schemes\Apps\.Default\File's Finished\.Current]
+DefaultValue=%ThemeDir%FILEFINI.WAV
+
+[AppEvents\Schemes\Apps\.Default\You've Got Post\.Current]
+DefaultValue=%ThemeDir%GOTPOST.WAV
+
+[AppEvents\Schemes\Apps\.Default\StartProgram\.Current]
+DefaultValue=%Windir%MEDIA\CHIMES.WAV
+
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=
+
+[Metrics]
+IconMetrics=76 0 0 0 94 0 0 0 94 0 0 0 1 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30
+NonclientMetrics=84 1 0 0 1 0 0 0 13 0 0 0 13 0 0 0 18 0 0 0 18 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30 15 0 0 0 18 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30 18 0 0 0 18 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 224 249 251 191 0 0 0 0 77 73 66 0 144 83 104 0 113 30
+
+[Control Panel\Colors]
+Menu=128 152 176
+Window=255 255 255
+WindowFrame=0 0 0
+WindowText=0 0 0
+TitleText=255 255 255
